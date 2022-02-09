@@ -1,0 +1,1 @@
+import{y as r,H as t}from"./index.cbbca19b.js";function a(a){return r({url:t.req,method:"get",params:a},{isMock:!0})}function e(a){return r({url:t.login,method:"get",params:a})}function n(a){return r({url:t.task,method:"get",params:a})}export{e as a,n as b,a as g};
